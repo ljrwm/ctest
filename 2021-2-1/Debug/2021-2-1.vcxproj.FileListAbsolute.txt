@@ -1,0 +1,2 @@
+E:\GitHub\ctest\2021-2-1\Debug\2021-2-1.exe
+E:\GitHub\ctest\2021-2-1\Debug\2021-2-1.pdb
