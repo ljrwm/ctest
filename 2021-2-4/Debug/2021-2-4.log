@@ -1,0 +1,5 @@
+﻿  test.c
+E:\GitHub\ctest\2021-2-4\test.c(110,10): warning C4013: “​if”未定义；假设外部返回 int
+E:\GitHub\ctest\2021-2-4\test.c(111,5): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\GitHub\ctest\2021-2-4\test.c(114,5): error C2181: 没有匹配 if 的非法 else
+E:\GitHub\ctest\2021-2-4\test.c(118,14): warning C4013: “​return”未定义；假设外部返回 int
